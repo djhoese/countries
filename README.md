@@ -4,4 +4,8 @@
 Sandbox for learning branches and pull request in a git/GitHub Carpentries workshop
 
 Countries: 
-Japan 
+Japan
+France
+Indonesia
+New Zealand
+Ukraine
